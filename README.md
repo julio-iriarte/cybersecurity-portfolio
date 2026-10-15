@@ -8,7 +8,7 @@
 
 ## 👤 About me
 
-Software Engineer with **13+ years of experience** (.NET, SQL Server DBA, web development) and a background in **Networks & Telecommunications** (Windows/Linux server administration, CCNA Exploration). **Master's degree in Cybersecurity.**
+Julio Iriarte - Software Engineer with **13+ years of experience** (.NET, SQL Server DBA, web development) and a background in **Networks & Telecommunications** (Windows/Linux server administration, CCNA Exploration). **Master's degree in Cybersecurity.**
 
 I focus on **security administration, detection, and incident response**, applying frameworks such as **MITRE ATT&CK, NIST CSF, CIS Controls, and OWASP**.
 
@@ -16,7 +16,7 @@ I focus on **security administration, detection, and incident response**, applyi
 
 | | |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/cesjc](https://www.linkedin.com/in/julio-iriarte) |
+| 💼 LinkedIn | [linkedin.com/in/julio-iriarte](https://www.linkedin.com/in/julio-iriarte) |
 | 🏅 Credly | [credly.com/users/julio-iriarte](https://www.credly.com/users/julio-iriarte) |
 | ✍️ Blog | *coming soon* |
 

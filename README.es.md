@@ -6,7 +6,7 @@
 
 ## 👤 Sobre mí
 
-Ingeniero de Software con **más de 13 años de experiencia** (.NET, DBA SQL Server, desarrollo web) y formación en **Redes y Telecomunicaciones** (administración de servidores Windows/Linux, CCNA Exploration). **Maestría en Ciberseguridad.**
+Julio Iriarte - Ingeniero de Software con **más de 13 años de experiencia** (.NET, DBA SQL Server, desarrollo web) y formación en **Redes y Telecomunicaciones** (administración de servidores Windows/Linux, CCNA Exploration). **Maestría en Ciberseguridad.**
 
 Me enfoco en **administración de seguridad, detección y respuesta a incidentes**, aplicando marcos como **MITRE ATT&CK, NIST CSF, CIS Controls y OWASP**.
 
