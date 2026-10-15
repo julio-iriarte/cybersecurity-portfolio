@@ -16,8 +16,8 @@ I focus on **security administration, detection, and incident response**, applyi
 
 | | |
 |---|---|
-| 💼 LinkedIn | `<YOUR_LINKEDIN_URL>` |
-| 🏅 Credly | `<YOUR_CREDLY_URL>` |
+| 💼 LinkedIn | [linkedin.com/in/cesjc](https://www.linkedin.com/in/julio-iriarte) |
+| 🏅 Credly | [credly.com/users/julio-iriarte](https://www.credly.com/users/julio-iriarte) |
 | ✍️ Blog | *coming soon* |
 
 ---
