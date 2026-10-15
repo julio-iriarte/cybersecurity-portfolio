@@ -1,0 +1,55 @@
+# ==== Secrets & credentials (NEVER commit) ====
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+id_rsa*
+id_ed25519*
+*.kdbx
+secrets/
+credentials*
+client.keys
+authd.pass
+
+# ==== Raw evidence (sanitize first, publish only excerpts) ====
+*.pcap
+*.pcapng
+*.evtx
+*.etl
+*.dmp
+*.mem
+*.raw
+*.vmem
+raw-logs/
+private/
+
+# ==== Virtual machines / large binaries ====
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+*.iso
+*.sav
+
+# ==== Malware samples / apps under test ====
+samples/
+*.apk
+*.ipa
+
+# ==== AI / LLM local artifacts ====
+*.gguf
+*.safetensors
+models/
+.ollama/
+
+# ==== OS / editor ====
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+*.swp
