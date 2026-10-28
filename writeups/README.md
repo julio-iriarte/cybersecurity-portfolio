@@ -4,4 +4,4 @@ One report per lab session, using [the template](../templates/writeup-template.m
 
 | # | Date | Title | Block |
 |---|---|---|---|
-| 01 | — | Lab baseline & Wazuh health check | 00 / 01 |
+| 01 | 2026-10-27 | [Lab isolation review and SIEM deployment](session-01-lab-baseline.md) | 00 / 01 |
