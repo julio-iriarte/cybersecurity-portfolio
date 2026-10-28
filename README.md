@@ -32,7 +32,7 @@ Isolated virtual lab on **VirtualBox** with a **Wazuh SIEM**, Windows Server / A
 | # | Area | Description | Status |
 |---|---|---|---|
 | 00 | [Lab Architecture](00-lab-architecture/) | Lab design, network segmentation, baseline | 🟡 In progress |
-| 01 | [Wazuh Detection](01-wazuh-detection/) | Custom rules & decoders mapped to MITRE ATT&CK | ⚪ Planned |
+| 01 | [Wazuh Detection](01-wazuh-detection/) | Wazuh 4.14 SIEM deployed; custom rules & decoders mapped to MITRE ATT&CK | 🟡 In progress |
 | 02 | [Windows & AD Hardening](02-windows-ad-hardening/) | CIS baselines, GPO, LAPS, AD detection | ⚪ Planned |
 | 03 | [Linux Hardening](03-linux-hardening/) | CIS, SSH, auditd, FIM, Active Response | ⚪ Planned |
 | 04 | [Mobile Security](04-mobile-security/) | OWASP MASVS, MobSF, MDM policies | ⚪ Planned |
