@@ -8,7 +8,7 @@
 
 ## 👤 About me
 
-Software Engineer with **13+ years of experience** (.NET, SQL Server DBA, web development) and a background in **Networks & Telecommunications** (Windows/Linux server administration, CCNA Exploration). **Master's degree in Cybersecurity.**
+Julio Iriarte - Software Engineer with **13+ years of experience** (.NET, SQL Server DBA, web development) and a background in **Networks & Telecommunications** (Windows/Linux server administration, CCNA Exploration). **Master's degree in Cybersecurity.**
 
 I focus on **security administration, detection, and incident response**, applying frameworks such as **MITRE ATT&CK, NIST CSF, CIS Controls, and OWASP**.
 
@@ -16,8 +16,8 @@ I focus on **security administration, detection, and incident response**, applyi
 
 | | |
 |---|---|
-| 💼 LinkedIn | `<YOUR_LINKEDIN_URL>` |
-| 🏅 Credly | `<YOUR_CREDLY_URL>` |
+| 💼 LinkedIn | [linkedin.com/in/julio-iriarte](https://www.linkedin.com/in/julio-iriarte) |
+| 🏅 Credly | [credly.com/users/julio-iriarte](https://www.credly.com/users/julio-iriarte) |
 | ✍️ Blog | *coming soon* |
 
 ---
@@ -32,7 +32,7 @@ Isolated virtual lab on **VirtualBox** with a **Wazuh SIEM**, Windows Server / A
 | # | Area | Description | Status |
 |---|---|---|---|
 | 00 | [Lab Architecture](00-lab-architecture/) | Lab design, network segmentation, baseline | 🟡 In progress |
-| 01 | [Wazuh Detection](01-wazuh-detection/) | Custom rules & decoders mapped to MITRE ATT&CK | ⚪ Planned |
+| 01 | [Wazuh Detection](01-wazuh-detection/) | Wazuh 4.14 SIEM deployed; custom rules & decoders mapped to MITRE ATT&CK | 🟡 In progress |
 | 02 | [Windows & AD Hardening](02-windows-ad-hardening/) | CIS baselines, GPO, LAPS, AD detection | ⚪ Planned |
 | 03 | [Linux Hardening](03-linux-hardening/) | CIS, SSH, auditd, FIM, Active Response | ⚪ Planned |
 | 04 | [Mobile Security](04-mobile-security/) | OWASP MASVS, MobSF, MDM policies | ⚪ Planned |
